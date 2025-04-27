@@ -1,11 +1,11 @@
 <b>Hi there, I’m Aruna Jain! 👋</b>
 
-🚀 Full Stack Developer | AWS Certified | Problem Solver
+🚀 Full Stack Developer | AWS Certified Developer Associate | Problem Solver
 
 Experienced Full Stack Developer with 9+ years of expertise in building scalable web applications and backend systems. Proficient in Node.js, React, Angular, and AWS, with a strong background in designing RESTful APIs and managing databases like PostgreSQL, DynamoDB, and MongoDB. Passionate about problem-solving, debugging, and delivering high-performance applications.
 <hr></hr>
 
-<b>🛠 Tech Stack & Skills</b><br> <br>
+<h2>🛠 Tech Stack & Skills</b><br> </h2>
 <b>
 💻 Programming Languages</b> <br><br>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -31,3 +31,5 @@ AWS Certified Developer Associate & Cloud Practitioner. <br><br>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arunajaindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunajaindev/" height="30" width="40" /></a> 
 </p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="55e3ca47-0775-4329-990a-a6a2f2b2e331" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
