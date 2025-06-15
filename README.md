@@ -29,7 +29,6 @@ AWS Certified Developer Associate & Cloud Practitioner. <br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arunajaindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunajaindev/" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/arunajaindev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunajaindev/" height="30" width="40" /></a> 
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="55e3ca47-0775-4329-990a-a6a2f2b2e331" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
