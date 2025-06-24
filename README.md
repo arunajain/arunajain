@@ -2,7 +2,7 @@
 
 NodeJs | JavaScript | ReactJs | RestAPI | AWS Certified (Developer Associate) | Permanent Resident of Canada | Open to Full-Time Opportunities
 
-Experienced Full Stack Developer with 9+ years of expertise in building scalable web applications and backend systems. Proficient in Node.js, React, Angular, and AWS, with a strong background in designing RESTful APIs and managing databases like PostgreSQL, DynamoDB, and MongoDB. Passionate about problem-solving, debugging, and delivering high-performance applications.
+Experienced Full Stack NodeJS Developer with 9+ years of expertise in building scalable web applications and backend systems. Proficient in Node.js, Javascript, React JS, Angular, and AWS, with a strong background in designing RESTful APIs and managing databases like PostgreSQL and MongoDB. Passionate about problem-solving, debugging, and delivering high-performance applications.
 <hr></hr>
 
 <h2>🛠 Tech Stack & Skills</b><br> </h2>
